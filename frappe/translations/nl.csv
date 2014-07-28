@@ -19,29 +19,29 @@ About Us Team Member,Over ons Team Member
 Action,Actie
 Actions,acties
 "Actions for workflow (e.g. Approve, Cancel).","Acties voor workflow ( bijv. goedkeuren , Annuleren) ."
-Add,Toevoegen
-Add A New Rule,Voeg een nieuwe regel
-Add A User Permission,Add A User Permission
+Add,Voeg toe
+Add A New Rule,Voeg een nieuwe regel toe
+Add A User Permission,Voeg gebruikersrecht toe
 Add Attachments,Bijlagen toevoegen
 Add Bookmark,Voeg bladwijzer toe
 Add CSS,Voeg CSS
 Add Column,Kolom toevoegen
 Add Google Analytics ID: eg. UA-89XXX57-1. Please search help on Google Analytics for more information.,Voeg Google Analytics ID: bv. UA-89XXX57-1. Zoek dan hulp bij Google Analytics voor meer informatie.
 Add Message,Bericht toevoegen
-Add New Permission Rule,Toevoegen nieuwe Toestemming regel
-Add Reply,Voeg antwoord
-Add Total Row,Voeg Totaal Row
-Add a New Role,Voeg een nieuwe rol
+Add New Permission Rule,voegen nieuwe regel toe
+Add Reply,Voeg antwoord toe
+Add Total Row,Voeg Totaal Rij
+Add a New Role,Voeg een nieuwe permissie toe
 Add a banner to the site. (small banners are usually good),Plaats ook een banner op de site. (Kleine banners zijn meestal goed)
-Add all roles,Voeg alle rollen
+Add all roles,Voeg alle permissies toe
 Add attachment,Bijlage toevoegen
 Add code as &lt;script&gt;,Voeg code als &lt;script&gt;
-Add custom javascript to forms.,Voeg aangepaste javascript te vormen .
-Add fields to forms.,Velden toe aan een formulier .
-Add new row,Voeg een nieuwe rij
+Add custom javascript to forms.,Voeg aangepast javascript toe aan formulier .
+Add fields to forms.,Voeg velden toe aan een formulier .
+Add new row,Voeg een nieuwe rij toe
 "Add the name of <a href=""http://google.com/webfonts"" target=""_blank"">Google Web Font</a> e.g. ""Open Sans""","Voeg de naam van de <a href=""http://google.com/webfonts"" target=""_blank"">Google Web Font</a> bv. &quot;Open Sans&quot;"
-Add to To Do,Toevoegen aan To Do
-Add to To Do List Of,In To Do List van
+Add to To Do,Toevoegen aan Te Doen
+Add to To Do List Of,Voeg te doen lijst toe
 Adding System Manager to this User as there must be atleast one System Manager,System Manager toe te voegen aan deze gebruikershandleiding als er tenminste een System Manager moet zijn
 Additional Info,Extra informatie
 Additional Permissions,extra Machtigingen
@@ -52,22 +52,22 @@ Address Title,Adres Titel
 Address and other legal information you may want to put in the footer.,Adres-en andere wettelijke informatie die u wilt zetten in de voettekst.
 Admin,admin
 All Applications,Alle toepassingen
-All Day,All Day
+All Day,Hele dag
 "All possible Workflow States and roles of the workflow. <br>Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","Alle mogelijke Workflow Staten en rollen van de workflow. <br> Docstatus Opties: 0 is &quot;Saved&quot;, is 1 &quot;Submitted&quot; en 2 &quot;Cancelled&quot;"
-Allow Attach,Laat Bevestig
-Allow Import,Laat importeren
-Allow Import via Data Import Tool,Laat importeren via Gegevens importeren Tool
-Allow Rename,Laat hernoemen
-Allow on Submit,Laat op Submit
+Allow Attach,Laat bijlage toe
+Allow Import,Laat importeren toe
+Allow Import via Data Import Tool,Laat importeren via Gegevens importeren Tool toe
+Allow Rename,Laat hernoemen toe
+Allow on Submit,toestaan bij doorsturen
 Allow user to login only after this hour (0-24),Gebruiker mag alleen inloggen na dit uur (0-24)
-Allow user to login only before this hour (0-24),Gebruiker mag alleen inloggen voordat dit uur (0-24)
+Allow user to login only before this hour (0-24),Gebruiker mag alleen inloggen voor dit uur (0-24)
 Allowed,Toegestaan
-"Allowing DocType, DocType. Be careful!","Het toestaan ​​DocType , DocType . Wees voorzichtig !"
+"Allowing DocType, DocType. Be careful!","DocType , DocType toestaan. Wees voorzichtig !"
 Already Registered,Reeds geregistreerd
 Already in user's To Do list,Reeds in gebruiker takenlijst
 Alternative download link,Alternatieve download link
 "Alternatively, you can also specify 'auto_email_id' in site_config.json",Als alternatief kunt u ook ' auto_email_id ' opgeeft in site_config.json
-Always use above Login Id as sender,Gebruik altijd boven Inloggen Id als afzender
+Always use above Login Id as sender,Gebruik altijd bovenstaan Inlog Id als afzender
 Amend,Amenderen
 "An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [<a href=""http://favicon-generator.org/"" target=""_blank"">favicon-generator.org</a>]","Een icoon bestand met. Ico extensie. Moet 16 x 16 px. Gegenereerd met behulp van een favicon generator. [ <a href=""http://favicon-generator.org/"" target=""_blank"">favicon-generator.org</a> ]"
 "Another {0} with name {1} exists, select another name","Een ander {0} met de naam {1} bestaat, selecteert u een andere naam"
@@ -81,7 +81,7 @@ App not found,App niet gevonden
 Application Installer,Application Installer
 Applications,toepassingen
 Apply Style,toepassen Stijl
-Apply User Permissions,Solliciteer Gebruikersmachtigingen
+Apply User Permissions,Pas Gebruikersmachtigingen toe
 Are you sure you want to delete the attachment?,Weet u zeker dat u de bijlage wilt verwijderen?
 Arial,Arial
 "As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.","Als een best practice , niet dezelfde set van toestemming regel op verschillende rollen toekennen. In plaats daarvan , stelt meerdere rollen aan dezelfde gebruiker ."
@@ -89,30 +89,30 @@ Ascending,Oplopend
 Assign To,Toewijzen aan
 Assigned By,Toegekend door
 Assigned To,toegewezen aan
-Assigned To Fullname,Toegewezen aan Fullname
+Assigned To Fullname,Toegewezen aan volledige naam
 Assigned To/Owner,Toegewezen aan / Eigenaar
 Assignment Added,opdracht Toegevoegd
 Assignment Status Changed,Opdracht Status Veranderd
 Assignments,opdrachten
-Attach,Hechten
-Attach Document Print,Bevestig Document Print
-Attach as web link,Bevestig als weblink
+Attach,bijvoegen
+Attach Document Print,Voeg Document afdruk toe
+Attach as web link,Voeg toe als weblink
 Attached To DocType,Bijlage Aan DocType
-Attached To Name,Gehecht Aan Naam
-Attachments,Toebehoren
-Auto Email Id,Auto E-mail Identiteitskaart
+Attached To Name,Bijgevoegd Aan Naam
+Attachments,Bijlagen
+Auto Email Id,Auto E-mailadres
 Auto Name,Auto Naam
-Auto generated,Gegenereerd Auto
-Avatar,Avatar
+Auto generated,Auto Gegenereer
+Avatar,Gebruikersicoon
 Back to Login,Terug naar Inloggen
 Background Color,Achtergrondkleur
 Background Image,Achtergrondafbeelding
-Banner,Banier
+Banner,Banner
 Banner HTML,Banner HTML
 Banner Image,Banner Afbeelding
 Banner is above the Top Menu Bar.,Banner is boven de top menubalk.
-Base Template Path,Base Template Path
-Begin this page with a slideshow of images,Begin deze pagina met een diavoorstelling van foto&#39;s
+Base Template Path,Basispad sjabloon
+Begin this page with a slideshow of images,Begin deze pagina met een diavoorstelling van afbeeldingen
 Belongs to,hoort bij
 Bio,Bio
 Birth Date,Geboortedatum
@@ -120,7 +120,7 @@ Blog Category,Blog Categorie
 Blog Intro,Blog Intro
 Blog Introduction,Blog Inleiding
 Blog Post,Blog Post
-Blog Settings,Blog Settings
+Blog Settings,Blog Instellingen
 Blog Title,Blog Titel
 Blogger,Blogger
 Bookmarks,Bladwijzers
@@ -135,26 +135,26 @@ Cancelled,Geannuleerd
 "Cannot Edit {0} directly: To edit {0} properties, create / update {1}, {2} and {3}","Kan niet bewerken {0} direct : Om {0} eigenschappen te bewerken , aanmaken / bijwerken {1} , {2} en {3}"
 Cannot Update: Incorrect / Expired Link.,Kan niet bijwerken : Onjuiste / verlopen Link .
 Cannot Update: Incorrect Password,Kan niet bijwerken : Incorrect Password
-Cannot add more than 50 comments,Kan niet toevoegen meer dan 50 reacties
-Cannot cancel before submitting. See Transition {0},Opzeggen kan niet vóór de indiening .
+Cannot add more than 50 comments,Kan niet meer dan 50 reacties toevoegen 
+Cannot cancel before submitting. See Transition {0},Annuleren kan niet vóór de indiening, Zie Transitie {0}
 Cannot change picture,Kan beeld niet wijzigen
-Cannot change state of Cancelled Document. Transition row {0},Kan toestand van Cancelled Document niet veranderen .
-Cannot change {0},Kan niet veranderen {0}
+Cannot change state of Cancelled Document. Transition row {0},Kan toestand van geannuleerd Document niet veranderen .
+Cannot change {0},Kan niet wijzigen {0}
 Cannot delete or cancel because {0} {1} is linked with {2} {3},Kan niet verwijderen of annuleren omdat {0} {1} is gekoppeld aan {2} {3}
-Cannot delete {0} as it has child nodes,Kan niet verwijderen {0} omdat het kind knooppunten
+Cannot delete {0} as it has child nodes,Kan niet verwijderen {0} omdat het kind vertakkingen heeft
 Cannot delete {0} {1} is it is referenced in another record,Kan niet verwijderen {0} {1} wordt ernaar wordt verwezen in een ander record
 Cannot edit standard fields,Kan standaard velden niet bewerken
-Cannot map because following condition fails: ,"Kan niet toewijzen, omdat volgende voorwaarde mislukt:"
-Cannot open instance when its {0} is open,Kan niet openen bijvoorbeeld wanneer de {0} is geopend
+Cannot map because following condition fails: ,"Kan niet toewijzen, omdat volgende voorwaarde is mislukt:"
+Cannot open instance when its {0} is open,Kan niet openen  wanneer {0} is geopend
 Cannot open {0} when its instance is open,Kan niet openen {0} wanneer de instantie is geopend
-Cannot print cancelled documents,Kan geannuleerd documenten niet afdrukken
+Cannot print cancelled documents,Kan geannuleerde documenten niet afdrukken
 Cannot remove permission for DocType: {0} and Name: {1},Kan toestemming niet verwijderen voor DocType : {0} en Naam : {1}
-Cannot reply to a reply,Mag niet antwoorden op een antwoord
+Cannot reply to a reply,Kan niet antwoorden op een antwoord
 Cannot set permission for DocType: {0} and Name: {1},Kan geen toestemming voor DocType : {0} en Naam : {1}
 Categorize blog posts.,Categoriseren blog posts.
 Category,Categorie
 Category Name,Categorie Naam
-Center,Centrum
+Center,Centreer
 "Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","Bepaalde documenten , zoals een factuur , dient niet te worden zodra de definitieve veranderd . De eindtoestand van deze documenten wordt ingediend . U kunt beperken welke rollen kunnen indienen ."
 "Change field properties (hide, readonly, permission etc.)","Wijzig veldeigenschappen (verberg , readonly , toestemming etc. )"
 Chat,Praten
@@ -164,42 +164,42 @@ Check this if you want to send emails as this id only (in case of restriction by
 Check this to make this the default letter head in all prints,Vink dit aan om deze de standaard briefpapier maken in alle afdrukken
 Checked items shown on desktop,Aangevinkte items getoond op het bureaublad
 Child Tables are shown as a Grid in other DocTypes.,Onderliggende tabellen worden weergegeven als een tabel in andere DocTypes.
-City,City
+City,Stad
 Clear Cache,Cache wissen
 Clear all roles,Wis alle rollen
-Click on a link to get options to expand get options ,
+Click on a link to get options to expand get options , Klik op een link op de opties te zien
 Click on row to view / edit.,Klik op de rij / bewerken weer te geven.
-Click to Expand / Collapse,Klik om Uitklappen / Inklappen
+Click to Expand / Collapse,Klik voor Uitklappen / Inklappen
 Client,Klant
 Close,Sluiten
 Close: {0},Sluiten : {0}
 Closed,Gesloten
 Code,Code
-Collapse,ineenstorting
+Collapse,inklappen
 Color,Kleur
-Column Break,Column Break
+Column Break,Kolom Break
 Comment,Commentaar
-Comment By,Reactie door
-Comment By Fullname,Reactie door Volledige naam
-Comment Date,Reactie Datum
-Comment Docname,Reactie Docname
-Comment Doctype,Reactie Doctype
+Comment By,Commentaar door
+Comment By Fullname,Commentaar door Volledige naam
+Comment Date,Commentaar Datum
+Comment Docname,Commentaar Docname
+Comment Doctype,Commentaar Doctype
 Comment Time,Reactie Tijd
-Comments,Reacties
-Communication,Verbinding
-Communication Medium,Communicatie Medium
-Company History,Bedrijf Geschiedenis
+Comments,Commentaren
+Communication,Communicatie
+Communication Medium,Communicatie Middel
+Company History,Bedrijf geschiedenis
 Company Introduction,Bedrijf Introductie
 Complaint,Klacht
 Complete By,Compleet Door
 Condition Field,voorwaarde Veld
-Contact Us Settings,Neem contact met ons op Instellingen
-"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.","Contact opties, zoals &quot;Sales Query, ondersteuning Query&quot; etc elk op een nieuwe regel of gescheiden door komma&#39;s."
+Contact Us Settings,Instellingen contacteer ons
+"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.","Contact opties, zoals ""Verkoopondersteruning"" enz elk op een nieuwe regel of gescheiden door komma."
 Content,Inhoud
-Content Hash,Content Hash
+Content Hash,Inhoud Hash
 Content in markdown format that appears on the main side of your page,Inhoud in Markdown-formaat dat wordt weergegeven op de belangrijkste kant van uw pagina
 Content web page.,Inhoud webpagina.
-Controller,controleur
+Controller,beheerder
 Copy,Kopiëren
 Copyright,Auteursrecht
 Core,Kern
@@ -208,25 +208,25 @@ Could not find {0},Kon het niet vinden {0}
 Count,tellen
 Country,Land
 Create,Creëren
-Created Custom Field {0} in {1},Gemaakt Aangepast veld {0} in {1}
-Created Customer Issue,Gemaakt op problemen van klanten
-Created Opportunity,Gemaakt Opportunity
-Created Support Ticket,Gemaakt Hulpaanvraag
+Created Custom Field {0} in {1},Aangepast veld {0} gemaakt in {1}
+Created Customer Issue,Klantprobleem aangemaakt
+Created Opportunity,Opportuniteit Gemaakt
+Created Support Ticket,supportaanvraag gemaakt
 Creation / Modified By,Creatie / Gewijzigd door
 Currency,Valuta
 Current status,Actuele status
-Custom CSS,Custom CSS
+Custom CSS,Aangepaste CSS
 Custom Field,Aangepast veld
-Custom Javascript,custom Javascript
+Custom Javascript,aangepast Javascript
 Custom Reports,Aangepaste rapporten
 Custom Script,Aangepaste Script
-Custom?,Custom?
-Customize,Pas
-Customize Form,Pas Form
-Customize Form Field,Pas Form Field
-"Customize Label, Print Hide, Default etc.","Pas Label, Print verbergen, Standaard, enz."
+Custom?,Op maat?
+Customize,Pas aan
+Customize Form,Pas Formulier aan
+Customize Form Field,Pas formulier veld aan
+"Customize Label, Print Hide, Default etc.","Pas Label aan, Print verbergen, Standaard, enz."
 Customized HTML Templates for printing transctions.,Aangepaste HTML-sjablonen voor het afdrukken transctions .
-Daily Event Digest is sent for Calendar Events where reminders are set.,Dagelijkse gebeurtenis Digest wordt gestuurd voor Agenda Events waar herinneringen worden ingesteld.
+Daily Event Digest is sent for Calendar Events where reminders are set.,Dagelijkse gebeurtenissen wordt gestuurd voor Agenda Events waar herinneringen worden ingesteld.
 Danger,Gevaar
 Data,Gegevens
 Data Import / Export Tool,Gegevens Import / Export Tool
@@ -235,14 +235,14 @@ Data missing in table,Ontbreekt in tabel data
 Date,Datum
 Date Format,Datumnotatie
 Date and Number Format,Datum en Nummer Formaat
-Date must be in format: {0},Datum moet volgend formaat : {0}
-Datetime,Datetime
+Date must be in format: {0},Datum moet in volgend formaat : {0}
+Datetime,Datumtijd
 Dear,Lieve
 Default,Verzuim
-Default Print Format,Default Print Format
+Default Print Format,Standaard afdruk Formaat
 Default Value,Standaardwaarde
-"Default: ""Contact Us""",Default: &quot;Contact&quot;
-DefaultValue,DefaultValue
+"Default: ""Contact Us""",Default: ""Contacteer ons"""
+DefaultValue,Standaardwaarde
 Defaults,Standaardwaarden
 "Define read, write, admin permissions for a Website Page.","Definieer lezen, schrijven , admin rechten voor een webpagina ."
 Define workflows for forms.,Definieer workflows voor formulieren .
@@ -256,27 +256,27 @@ Description and Status,Beschrijving en Status
 Description for page header.,Beschrijving van pagina header.
 Desktop,Desktop
 Details,Details
-Did not add,Niet toevoegen
-Did not cancel,Niet annuleren
-Did not find {0} for {0} ({1}),Heeft u niet gevonden {0} {0} ( {1} )
+Did not add,Niet toegevoegd
+Did not cancel,Niet geannulleerd
+Did not find {0} for {0} ({1}),Heeft  {0} niet gevonden voor {0} ( {1} )
 Did not load,Niet geladen
-Did not remove,Niet verwijderen
-Did not save,Niet bewaren
-"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.","Verschillende &quot;staten&quot; van dit document kan in bestaan ​​Like &quot;Open&quot;, &quot;In afwachting van goedkeuring&quot;, enz."
-Disable Customer Signup link in Login page,Uitschakelen Customer Inschrijven schakel in Login pagina
-Disable Signup,Uitschakelen Inschrijven
-Disabled,Invalide
-Display,tonen
+Did not remove,Niet verwijderd
+Did not save,Niet bewaard
+"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.","Verschillende ""statussen"" van dit document kunnen bestaan ​zoals ""Open"", ""In afwachting van goedkeuring"", enz."
+Disable Customer Signup link in Login page,Schakelen klantregistratie in Login pagina uit
+Disable Signup,Uitschakelen registratie
+Disabled,Uitgeschakeld
+Display,Toon
 Display Settings,Beeldscherminstellingen
-Display in the sidebar of this Website Route node,Display in de zijbalk van deze website Route knooppunt
-Do not allow user to change after set the first time,Sta niet toe dat de gebruiker te wijzigen nadat u de eerste keer
+Display in the sidebar of this Website Route node,Display in de zijbalk van deze website menu
+Do not allow user to change after set the first time,Sta niet toe dat de gebruiker dit wijzigt na de eerste keer
 Doc Status,Doc Status
 DocField,DocField
 DocPerm,DocPerm
 DocType,DOCTYPE
 DocType Details,DocType Details
 DocType can not be merged,DocType kan niet worden samengevoegd
-DocType on which this Workflow is applicable.,DOCTYPE waarop dit Workflow toepassing is.
+DocType on which this Workflow is applicable.,DOCTYPE waarop deze Workflow toepassing is.
 DocType or Field,DocType of Field
 Doclist JSON,Doclist JSON
 Docname,DocName
@@ -292,15 +292,15 @@ Download,Download
 Download Backup,Download Backup
 Download link for your backup will be emailed on the following email address:,Download link voor uw back-up wordt per e-mail op het volgende e-mailadres :
 Drafts,Concepten
-Drag to sort columns,Sleep om te sorteren kolommen
+Drag to sort columns,Sleep om kolommen te sorteren
 Due Date,Vervaldag
-Duplicate name {0} {1},Dupliceren naam {0} {1}
-Edit,Redigeren
+Duplicate name {0} {1},Dupliceer naam {0} {1}
+Edit,Bewerk
 Edit Permissions,Machtigingen bewerken
 Editable,Bewerkbare
 Email,E-mail
 Email Host,E-mail Host
-Email Id,E-mail Identiteitskaart
+Email Id,E-mail adres
 Email Login,E-mail Login
 Email Password,E-mail Wachtwoord
 Email Sent,E-mail verzonden
@@ -313,29 +313,29 @@ Email not verified with {1},E-mail niet geverifieerd met {1}
 Email sent to {0},E-mail verzonden naar {0}
 Email...,Email ...
 Emails are muted,E-mails zijn gedempt
-Embed image slideshows in website pages.,Afbeelding insluiten diavoorstellingen in website pagina&#39;s.
-Enable,in staat stellen
-Enable Comments,Enable Reacties
+Embed image slideshows in website pages., diavoorstellingen insluiten in website paginas.
+Enable,toelaten
+Enable Comments,Laat reacties toe
 Enabled,Ingeschakeld
 Ends on,Eindigt op
-Enter Form Type,Voer Form Type
+Enter Form Type,Geef Form Type
 Enter Value,Waarde invoeren
-Enter at least one permission row,Voer ten minste een toestemming rij
+Enter at least one permission row,Geef ten minste een toestemming rij
 "Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to <a href=""#Form/Customize Form/Customize Form"">Customize Form</a>.","Voer standaardwaarde velden (sleutels) en waarden. Als u meerdere waarden voor een veld, zal de eerste worden opgepakt. Deze standaardwaarden worden ook gebruikt om &quot;match&quot; toestemming regels. Om de lijst van de velden te zien, ga naar <a href=""#Form/Customize Form/Customize Form"">Formulier aanpassen</a> ."
 "Enter keys to enable login via Facebook, Google, GitHub.","Enter toetsen om toegang in te schakelen via Facebook , Google , GitHub ."
-Equals,equals
+Equals,is gelijk aan
 Error,Fout
 Error: Document has been modified after you have opened it,Fout: Document is gewijzigd nadat u het hebt geopend
 Event,Evenement
-Event Datetime,event Datetime
+Event Datetime,Evenement Datetime
 Event Individuals,Event Personen
-Event Role,Event Rol
-Event Roles,Event Rollen
-Event Type,Type gebeurtenis
+Event Role,Evenement Rol
+Event Roles,Evenement Rollen
+Event Type,Evenement soort
 Event User,Evenement Gebruiker
 Event end must be after start,End geval moet na start
 Events,evenementen
-Events In Today's Calendar,Evenementen In Kalender Today&#39;s
+Events In Today's Calendar,Evenementen In Kalender vandaag
 Every Day,Elke Dag
 Every Month,Elke maand
 Every Week,Elke Week
@@ -343,11 +343,11 @@ Every Year,Elk jaar
 Example:,Voorbeeld:
 Expand,uitbreiden
 Export,Exporteren
-Export not allowed. You need {0} role to export.,Export niet toegestaan ​​. Je nodig hebt {0} rol om te exporteren .
-Exported,geëxporteerde
+Export not allowed. You need {0} role to export.,Export niet toegestaan ​​. Je nodig hebt {0} rechten nodig om te exporteren .
+Exported,geëxporteerd
 Facebook,facebook
 Facebook Client ID,Facebook Client ID
-Facebook Client Secret,Facebook Client Secret
+Facebook Client Secret,Facebook Client paswoord
 Facebook Share,Facebook Share
 Facebook User ID,Facebook User ID
 Facebook Username,Facebook Gebruikersnaam
@@ -364,17 +364,17 @@ Fieldname,Veldnaam
 Fieldname is required in row {0},Veldnaam is vereist in rij {0}
 Fieldname not set for Custom Field,Veldnaam niet ingesteld op Aangepast veld
 Fieldname {0} appears multiple times in rows {1},Veldnaam {0} verschijnt meerdere keren in rijen {1}
-"Fieldname {0} cannot contain letters, numbers or spaces","Veldnaam {0} kan niet letters, cijfers of spaties bevatten"
+"Fieldname {0} cannot contain letters, numbers or spaces","Veldnaam {0} kan geen letters, cijfers of spaties bevatten"
 Fields,Velden
 "Fields separated by comma (,) will be included in the<br /><b>Search By</b> list of Search dialog box","Velden gescheiden door komma (,) opgenomen in de <br /> <b>Zoeken op</b> lijst van dialoogvenster Zoeken"
-Fieldtype must be one of {0} in row {1},FieldType moet een van {0} in rij {1}
+Fieldtype must be one of {0} in row {1},Veldtype moet een van {0} in rij {1} zijn
 File,Bestand
-File Data,File Data
+File Data,Bestand Data
 File Name,Bestandsnaam
 File Size,Bestand Grootte
-File URL,File-URL
+File URL,Bestand-URL
 File not attached,Bestand niet verbonden
-File size exceeded the maximum allowed size of {0} MB,Bestandsgrootte overschreden de maximaal toegestane grootte van {0} MB
+File size exceeded the maximum allowed size of {0} MB,Bestandsgrootte overschrijdt de maximaal toegestane grootte van {0} MB
 Filter,Filteren
 Filter records based on User Permissions defined for a user,Records filteren op basis van Gebruikersmachtigingen gedefinieerd voor een gebruiker
 First Name,Voornaam
@@ -391,24 +391,24 @@ For DocType,voor DocType
 For Select, enter list of Options separated by comma","Voor Links , voer de DocType als bereik \ Nfor Kiezen, voer lijst van opties , gescheiden door een komma"
 "For comparative filters, start with","Voor vergelijkingsdoeleinden filters, te beginnen met"
 For example if you cancel and amend 'INV004' it will become a new document 'INV004-1'. This helps you to keep track of each amendment.,Bijvoorbeeld als u wilt annuleren en wijzigen &#39;INV004&#39; het zal worden een nieuw document &#39;INV004-1&#39;. Dit helpt u bij te houden van elke wijziging.
-For ranges,Voor bereiken
+For ranges,Voor reeks
 For top bar,Voor bovenste balk
 For {0} at level {1} in {2} in row {3},Voor {0} op niveau {1} in {2} in rij {3}
 Forgot Password,Wachtwoord vergeten
 Forgot Password?,Wachtwoord vergeten ?
-Form,vorm
+Form,formulier
 Forum,Forum
 Forums,Forums
 Forward To Email Address,Forward naar emailadres
 Friday,Vrijdag
-From Date must be before To Date,Van datum moet voor-to-date
+From Date must be before To Date,Van datum moet voor tot datum
 Full Name,Volledige naam
 Gantt Chart,Gantt-diagram
 Gender,Geslacht
 Generator,generator
 Georgia,Georgië
 Get,Krijgen
-Get From ,Get Van
+Get From ,Krijg Van
 GitHub,GitHub
 GitHub Client ID,GitHub Client ID
 GitHub Client Secret,GitHub Client Secret
@@ -424,7 +424,7 @@ Google Web Font (Heading),Google Web Font (rubriek)
 Google Web Font (Text),Google Web Font (Tekst)
 Greater or equals,Groter of gelijk
 Greater than,groter dan
-"Group Added, refreshing...","Group Toegevoegd , verfrissend ..."
+"Group Added, refreshing...","Group Toegevoegd , vernieuwen ..."
 Group Description,groep Beschrijving
 Group Name,groep Naam
 Group Title,groep Titel
@@ -434,7 +434,7 @@ HTML for header section. Optional,HTML voor header sectie . facultatief
 Have an account? Login,Heb je al een account? login
 Header,Hoofd
 Heading,Titel
-Heading Text As,Rubriek Tekst Zoals
+Heading Text As,hoofding Tekst Zoals
 Help,Help
 Helvetica Neue,Helvetica Neue
 Hey! There should remain at least one System Manager,Hey! Er moet minstens een System Manager blijven
@@ -467,12 +467,12 @@ Image,Beeld
 Image Link,Afbeelding Link
 Import,Importeren
 Import / Export Data,Import / Export van gegevens
-Import / Export Data from .csv files.,Import / Export gegevens uit . Csv-bestanden .
+Import / Export Data from .csv files.,Import / Export gegevens uit .csv-bestanden .
 In,in
-In Dialog,In Dialog
+In Dialog,In Dialoog
 In Filter,In Filter
 In List View,In lijstweergave
-In Report Filter,In Report Filter
+In Report Filter,In Rapport Filter
 In response to,In reactie op
 Incorrect value in row {0}: {1} must be {2} {3},Onjuiste waarde in rij {0} : {1} moet {2} {3}
 Incorrect value: {1} must be {2} {3},Onjuiste waarde : {1} moet {2} {3}
@@ -484,16 +484,16 @@ Insert After,Invoegen na
 Insert Below,Hieronder invoegen
 Insert Code,Plaats Code
 Insert Row,Rij invoegen
-Insert Style,Plaats Style
+Insert Style,Voeg Stijl in
 Install Applications.,Installeer Toepassingen .
 Installed,geïnstalleerd
 Installer,Installer
 Int,Int
 Integrations,Integraties
-Introduce your company to the website visitor.,Introduceer uw bedrijf op de website bezoeker.
+Introduce your company to the website visitor.,Introduceer uw bedrijf aan de website bezoeker.
 Introduction,Introductie
-Introductory information for the Contact Us Page,Inleidende informatie voor het Contactformulier
-Invalid Email: {0},Ongeldig E-mail : {0}
+Introductory information for the Contact Us Page,Inleidende informatie voor het Contacteer ons formulier
+Invalid Email: {0},Ongeldige E-mail : {0}
 Invalid Filter: {0},Ongeldige Filter : {0}
 Invalid Home Page,Ongeldige Startpagina
 Invalid Outgoing Mail Server or Port,Ongeldige Server uitgaande post of Port
@@ -505,17 +505,17 @@ Is Child Table,Is het kind Tabel
 Is Default,Is Standaard
 Is Event,is Event
 Is Mandatory Field,Is Verplicht veld
-Is Single,Is Single
+Is Single,Is alleen
 Is Standard,Is Standaard
 Is Submittable,Is Submittable
 Is Task,is Taak
 Item cannot be added to its own descendents,Item kan niet worden toegevoegd aan zijn eigen nakomelingen
 JavaScript Format: frappe.query_reports['REPORTNAME'] = {},JavaScript Formaat : frappe.query_reports [ ' ReportName ' ] = { }
 Javascript,Javascript
-Javascript to append to the head section of the page.,Javascript toe te voegen aan de head sectie van de pagina.
+Javascript to append to the head section of the page.,Javascript toe te voegen aan de hoofdsectie van de pagina.
 Key,Sleutel
 Label,Label
-Label Help,Label Help
+Label Help,Help label
 Label and Type,Label en Type
 Label is mandatory,Label is verplicht
 Landing Page,Landing Page
@@ -557,7 +557,7 @@ Login,login
 Login After,Login Na
 Login Before,Login Voor
 Login Id,Login Id
-Login not allowed at this time,Inloggen niet toegestaan ​​op dit moment
+Login not allowed at this time,Inloggen niet toegestaan​op dit moment
 Logout,Afmelden
 Long Text,Lange tekst
 Low,Laag
@@ -569,13 +569,13 @@ Male,Mannelijk
 Manage cloud backups on Dropbox,Beheer cloud back-ups op Dropbox
 Manage uploaded files.,Geüploade bestanden .
 Mandatory,Verplicht
-Mandatory fields required in {0},Verplichte velden zijn verplicht in {0}
+Mandatory fields required in {0},Verplichte velden in {0}
 Mandatory filters required:\n,Verplichte filters nodig : \ n
-Master,Meester
+Master,Hoofd
 Max Attachments,Max Bijlagen
 Max width for type Currency is 100px in row {0},Max. breedte voor het type Valuta is 100px in rij {0}
 "Meaning of Submit, Cancel, Amend","Betekenis van Indienen, Annuleren, wijzigen"
-Medium,Medium
+Medium,gemiddeld
 "Menu items in the Top Bar. For setting the color of the Top Bar, go to <a href=""#Form/Style Settings"">Style Settings</a>","Menu-items in de Top Bar. Voor het instellen van de kleur van de Top Bar, ga naar <a href=""#Form/Style Settings"">Style Settings</a>"
 Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,Samenvoegen is alleen mogelijk tussen de groep-to - groep of Leaf Node - to- Leaf Node
 Message,Bericht
@@ -583,50 +583,50 @@ Messages,Berichten
 Method,Methode
 Middle Name (Optional),Midden Naam (Optioneel)
 Misc,Misc
-Miscellaneous,Gemengd
+Miscellaneous,Diversen
 Missing Values Required,Ontbrekende Vereiste waarden
 Modified by,Aangepast door
 Module,Module
 Module Def,Module Def
 Module Name,Modulenaam
 Module Not Found,Module niet gevonden
-Modules Setup,modules Setup
+Modules Setup,modules opzetten
 Monday,Maandag
 More,Meer
 More content for the bottom of the page.,Meer inhoud voor de onderkant van de pagina.
-Move,verhuizing
+Move,ga naar
 Move Down: {0},Omlaag : {0}
-Move Up: {0},Move Up : {0}
-Multiple root nodes not allowed.,Meerdere wortel nodes niet toegestaan ​​.
-Must have report permission to access this report.,Moet verslag toestemming om toegang tot dit rapport.
-Must specify a Query to run,Moet een query opgeven om te draaien
+Move Up: {0},Omhoog : {0}
+Multiple root nodes not allowed.,Meerdere hoofd aftakkingen niet toegestaan ​​.
+Must have report permission to access this report.,Moet toestemming hebben om toegang tot dit rapport.
+Must specify a Query to run,Moet een query opgeven om uit te voeren
 My Settings,Mijn instellingen
 Name,Naam
-Name Case,Naam Case
+Name Case,Naam zaak
 Name and Description,Naam en beschrijving
 Name is required,Naam is vereist
 Name not permitted,Naam niet toegestaan
 Name not set via Prompt,Naam niet ingesteld via Prompt
-Naming,Naming
+Naming,benaming
 Naming Series mandatory,Naamgeving Series verplicht
 Nested set error. Please contact the Administrator.,Geneste set fout. Neem contact op met de beheerder .
 New,nieuw
 New Password,Nieuw wachtwoord
 New Record,Nieuwe record
 New comment on {0} {1},Nieuwe opmerking over {0} {1}
-New password emailed,Nieuwe wachtwoord wordt verstuurd
+New password emailed,Nieuw wachtwoord wordt verstuurd
 New value to be set,Nieuwe waarde in te stellen
-Next Communcation On,Volgende communicatieboekjes Op
+Next Communcation On,Volgende communicatie Op
 Next Record,Volgende record
-Next State,Volgende State
+Next State,Volgende Status
 Next actions,Volgende acties
 No,Geen
 No Action,Geen actie
 No Cache,No Cache
-No Communication tagged with this ,Geen Communicatie getagd met deze
-No Copy,Geen Copy
+No Communication tagged with this ,Geen Communicatie gemerkt met deze
+No Copy,Geen kopie
 No Permissions set for this criteria.,Geen Permissies ingesteld voor deze criteria.
-No Report Loaded. Please use query-report/[Report Name] to run a report.,Geen rapport Loaded. Gelieve gebruik AND-rapport / [Report naam] om een ​​rapport uit te voeren.
+No Report Loaded. Please use query-report/[Report Name] to run a report.,Geen rapport geladen. Gelieve gebruik AND-rapport / [Report naam] om een ​​rapport uit te voeren.
 No Results,geen resultaten
 No Sidebar,geen zijbalk
 No Sitemap,geen Sitemap
@@ -644,19 +644,19 @@ None,Niemand
 None: End of Workflow,Geen: Einde van de Workflow
 Not Found,Niet gevonden
 Not Linked to any record.,Niet gekoppeld aan een record.
-Not Permitted,Niet Toegestane
+Not Permitted,Niet Toegestaan
 Not Submitted,niet ingediend
 Not a user yet? Sign up,Nog geen gebruiker? Registreren
 Not a valid Comma Separated Value (CSV File),Geen geldige Comma Separated Value ( CSV ​​)
 Not allowed,niet toegestaan
 Not allowed from this IP Address,Niet toegestaan ​​vanaf dit IP -adres
-Not allowed to Import,Niet toegestaan ​​om te importeren
-Not allowed to access {0} with {1} = {2},Niet toegestaan ​​om toegang {0} met {1} = {2}
-Not allowed to change {0} after submission,Niet toegestaan ​​na voorlegging aan veranderen {0}
-Not allowed to move,Niet toegestaan ​​om te bewegen
-Not allowed to reset the password of {0},Niet toegestaan ​​om het wachtwoord van {0} resetten
+Not allowed to Import,Niet toegestaan​om te importeren
+Not allowed to access {0} with {1} = {2},Geen toegang toegestaan​om  {0} met {1} = {2}
+Not allowed to change {0} after submission,Niet toegestaan te wijzigen​na voorlegging {0}
+Not allowed to move,Niet toegestaan ​om te verhuizen
+Not allowed to reset the password of {0},Niet toegestaan​om het wachtwoord van {0} resetten
 Not enough permission to see links.,Niet genoeg rechten om links te zien.
-Not equals,niet gelijken
+Not equals,niet gelijk
 Not found,niet gevonden
 Not in Developer Mode! Set in site_config.json,Niet in Developer Mode! Set in site_config.json
 Not permitted,niet toegestaan
@@ -664,9 +664,9 @@ Not permitted,niet toegestaan
 Note: Other permission rules may also apply,Opmerking: Andere toestemming regels kunnen ook van toepassing zijn
 Note: maximum attachment size = 1mb,Let op: maximale grootte van bijlagen = 1mb
 Nothing to delete,Niets te verwijderen
-Nothing to show,Niets aan te geven
+Nothing to show,Niets te tonene
 Nothing to show for this selection,Niets te tonen voor deze selectie
-Notification Count,kennisgeving Graaf
+Notification Count,kennisgeving nummer
 Notify by Email,Inform.per mail
 Number Format,Getalnotatie
 Old Parent,Oude Parent
@@ -674,10 +674,10 @@ On,Op
 "Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","Zodra je dit hebt ingesteld, wordt de gebruikers uitsluitend toegang tot documenten ( bijv. blog post ) waar de link bestaat ( bijv. Blogger ) ."
 Only Administrator allowed to create Query / Script Reports,Alleen Beheerder toegestaan ​​om Query / Script Rapporten maken
 Only Administrator can save a standard report. Please rename and save.,Alleen Beheerder kan een standaard rapport op te slaan. Wijzig de naam en sla.
-Only Allow Edit For,Alleen toestaan ​​Bewerken Voor
+Only Allow Edit For,Alleen bewerken toegestaan voor
 Only allowed {0} rows in one import,Alleen toegestaan ​​{0} rijen in een import
 Open,Open
-Open Count,Open Graaf
+Open Count,Open aantal
 Open Sans,Open Sans
 Options,Opties
 Options Help,Opties Help
@@ -700,9 +700,9 @@ Page Headings,Pagina Koppen
 Page Links,Pagina Links
 Page Name,Page Name
 Page Name Field,Pagina Naamveld
-Page Role,Pagina Rol
+Page Role,Pagina Rechten
 Page Text,Pagina tekst
-Page Title,page Title
+Page Title,page Titel
 Page content,Inhoud van de pagina
 Page not found,Pagina niet gevonden
 Page or Generator,Pagina of Generator
@@ -710,20 +710,20 @@ Page url name (auto-generated),Pagina URL-naam ( automatisch gegenereerd )
 Page with name {0} already exists,Pagina met de naam {0} bestaat al
 Parent Label,Parent Label
 Parent Post,ouder bericht
-Parent Website Page,Ouder Website Pagina
-Parent Website Route,Ouder Website Route
-Parent Website Sitemap,Ouder Website Sitemap
+Parent Website Page,Hoofd Website Pagina
+Parent Website Route,Hoofd Website Route
+Parent Website Sitemap,Hoofd Website Sitemap
 Participants,Deelnemers
 Password,Wachtwoord
-Password Updated,wachtwoord update
+Password Updated,wachtwoord bijgewerkt
 Password reset instructions have been sent to your email,Wachtwoord reset instructies zijn om uw e-mail verzonden
-Patch,Stuk
-Patch Log,Patch Inloggen
+Patch,patch
+Patch Log,Patch log
 Percent,Percentage
-Perm Level,Perm Level
-Permanently Cancel {0}?,Permanent Annuleren {0} ?
-Permanently Submit {0}?,Permanent Submit {0} ?
-Permanently delete {0}?,Permanent verwijderen {0} ?
+Perm Level,Perm niveau
+Permanently Cancel {0}?,Definitief Annuleren {0} ?
+Permanently Submit {0}?,Definitief versturen {0} ?
+Permanently delete {0}?,Definitief verwijderen {0} ?
 Permission Level,Machtigingsniveau
 Permission Levels,Toestemming Niveaus
 Permission Rules,Toestemming Regels
@@ -739,51 +739,51 @@ Personal Info,persoonlijke informatie
 Phone,Telefoon
 Phone No.,Telefoonnummer
 Pick Columns,Kies Kolommen
-Picture URL,picture URL
+Picture URL,afbeelding URL
 Pincode,Pincode
-Please attach a file first.,Gelieve een bestand eerst.
-Please attach a file or set a URL,Gelieve een bestand of stel een URL
-Please do not change the rows above {0},Gelieve niet de rijen veranderen bovenstaande {0}
-Please enable pop-ups,Schakel pop - ups
-Please enter Event's Date and Time!,Vul Event Datum en tijd !
-Please enter some text!,U dient een tekst !
-Please enter title!,Vul de titel!
+Please attach a file first.,Gelieve eerst een bestand bij te voegen.
+Please attach a file or set a URL,Gelieve een bestand bij te voegen of stel een URL in
+Please do not change the rows above {0},Gelieve de bovenstaande rijen niet te veranderen {0}
+Please enable pop-ups,Schakel pop - ups in
+Please enter Event's Date and Time!,Vul Event Datum en tijd in!
+Please enter some text!,U dient een tekst in te geven !
+Please enter title!,Vul de titel in!
 Please login to Upvote!,Log in om Upvote !
-Please make sure that there are no empty columns in the file.,Zorg ervoor dat er geen lege kolommen in het bestand.
-Please refresh to get the latest document.,Vernieuw om de nieuwste document te krijgen.
+Please make sure that there are no empty columns in the file.,Zorg ervoor dat er geen lege kolommen in het bestand zijn.
+Please refresh to get the latest document.,Vernieuw om nieuwste document te krijgen.
 Please select a file or url,Selecteer een bestand of url
-Please select atleast 1 column from {0} to sort,Selecteer minstens 1 kolom {0} te sorteren
+Please select atleast 1 column from {0} to sort,Selecteer minstens 1 kolom van {0} om te sorteren
 Please specify,Gelieve te specificeren
-Please specify 'Auto Email Id' in Setup > Outgoing Email Settings,Vul Setup opgeven 'Auto Email Id ' > Uitgaande e-mailinstellingen
-Please specify Event date and time,Specificeer de datum en tijd Event
+Please specify 'Auto Email Id' in Setup > Outgoing Email Settings,geef op 'Auto Email Id ' > Uitgaande e-mailinstellingen
+Please specify Event date and time,Specificeer de datum en tijd gebeurtenis
 Plugin,plugin
 Port,haven
 Post,post
 Post Publicly,Plaats Publiekelijk
 Post Topic,Bericht Onderwerp
 Post already exists. Cannot add again!,Bericht bestaat reeds. Kan niet opnieuw toe te voegen !
-Post does not exist. Please add post!,Bericht bestaat niet . Voeg bericht !
-Post to user,Inlenende
+Post does not exist. Please add post!,Bericht bestaat niet . Voeg bericht toe !
+Post to user,bericht aan gebruiker
 Posts,Berichten
 Previous Record,Vorige Record
 Primary,Primair
 Print,afdrukken
 Print Format,Print Formaat
 Print Format Type,Print Type Format
-Print Hide,Print Verberg
+Print Hide,Verberg afdruk
 Print Width,Printbreedte
-Print...,Print ...
-Printing and Branding,Printen en Branding
+Print...,Druk af ...
+Printing and Branding,Afdrukken en Branding
 Priority,Prioriteit
 Private,Prive-
 Properties,Eigenschappen
 Property,Eigendom
-Property Setter,Onroerend goed Setter
-Property Type,Type Woning
+Property Setter,Eigenschap gezet door 
+Property Type,Type eigenschap
 Public,Publiek
 Published,Gepubliceerd
 Published On,Gepubliceerd op
-Pull Emails from the Inbox and attach them as Communication records (for known contacts).,Trek E-mails van het Postvak IN en bevestig ze als communicatie-records (voor bekende contacten).
+Pull Emails from the Inbox and attach them as Communication records (for known contacts).,Vraag E-mails op van het Postvak IN en bevestig ze als communicatie-records (voor bekende contacten).
 Query,Vraag
 Query Options,Query-opties
 Query Report,Query Report
@@ -794,7 +794,7 @@ Re-open,Heropenen
 Read,Lezen
 Read Only,Alleen lezen
 Received,ontvangen
-Recipient,Recipiënt
+Recipient,Ontvanger
 Recipients,Ontvangers
 Record does not exist,Record bestaat niet
 Ref DocType,Ref DocType
@@ -805,55 +805,55 @@ Reference DocName,Referentie DocName
 Reference DocType,Referentie DocType
 Reference Name,Referentie Naam
 Reference Type,Referentie Type
-Refresh,Verversen
-Refreshing...,Verfrissend ...
+Refresh,Vernieuw
+Refreshing...,Vernieuwen ...
 Registered but disabled.,Geregistreerd maar uitgeschakeld.
 Registration Details Emailed.,Registratie gegevens gemaild.
-Reload Page,Reload Pagina
+Reload Page,Herlaad Pagina
 Remove,verwijderen
 Remove Bookmark,Bladwijzer verwijderen
 Remove all customizations?,Verwijder alle aanpassingen?
-Rename many items by uploading a .csv file.,Hernoemen veel items door het uploaden van een . Csv-bestand .
+Rename many items by uploading a .csv file.,Hernoemen meerdere artikels door het uploaden van een .csv-bestand .
 Rename...,Hernoemen ...
-Repeat On,Herhaal On
-Repeat Till,Herhaal Till
+Repeat On,Herhaal Op
+Repeat Till,Herhaal Tot
 Repeat this Event,Herhaal dit evenement
 Replies,Reacties
 Report,Verslag
-Report Builder,Report Builder
-Report Builder reports are managed directly by the report builder. Nothing to do.,Report Builder rapporten worden rechtstreeks beheerd door de Report Builder. Niets te doen.
-Report Hide,Meld Hide
+Report Builder,Rapport bouwer
+Report Builder reports are managed directly by the report builder. Nothing to do.,Rapport bouwer rapporten worden rechtstreeks beheerd door de Report Builder. Niets te doen.
+Report Hide,Verberg rapport
 Report Name,Rapportnaam
-Report Type,Meld Type
+Report Type,Rapport Type
 Report an Issue,Een probleem rapporteren?
 Report cannot be set for Single types,Rapport kan niet worden ingesteld voor Single types
 Report was not saved (there were errors),Rapport werd niet opgeslagen (er waren fouten)
-Reqd,Reqd
-Reset Password Key,Reset Password Key
+Reqd,Nodig
+Reset Password Key,Reset Paswoord Key
 Reset Permissions for {0}?,Reset Machtigingen voor {0} ?
 Restrict IP,Beperken IP
 Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),"Beperk de gebruiker van dit IP-adres alleen. Meerdere IP-adressen kunnen worden toegevoegd door het scheiden van met komma&#39;s. Ook aanvaardt gedeeltelijke IP-adres, zoals (111.111.111)"
 Right,Rechts
 Role,Rol
 Role Name,Rolnaam
-Role Permissions Manager,Rol Permissions Manager
+Role Permissions Manager,rechten (rol) Manager
 Role and Level,Rol en Niveau
 Role exists,rol bestaat
-Roles,Rollen
-Roles Assigned,Toegewezen Rollen
-Roles Assigned To User,Rollen Toegewezen aan gebruiker
-Roles HTML,Rollen HTML
-Roles can be set for users from their User page.,Rollen kunnen worden ingesteld voor gebruikers van hun gebruikers pagina .
+Roles,Rechten
+Roles Assigned,Toegewezen Rechten
+Roles Assigned To User,Rechten Toegewezen aan gebruiker
+Roles HTML,Rechten HTML
+Roles can be set for users from their User page.,Rechten kunnen worden ingesteld voor gebruikers van hun gebruikers pagina .
 Root {0} cannot be deleted,Root {0} kan niet worden verwijderd
 Row,Rij
 Rules defining transition of state in the workflow.,Regels met betrekking tot de overgang van de staat in de workflow.
 "Rules for how states are transitions, like next state and which role is allowed to change state etc.","Regels voor de manier waarop staten zijn overgangen, zoals naast staat en welke rol mag de staat, enz. te veranderen"
 SMTP Server (e.g. smtp.gmail.com),SMTP-server (bijvoorbeeld smtp.gmail.com)
-Sales,Sales
+Sales,Verkoop
 Same file has already been attached to the record,Hetzelfde bestand al is verbonden aan het record
 Saturday,Zaterdag
-Save,besparen
-Scheduler Log,Scheduler Inloggen
+Save,Bewaar
+Scheduler Log,Tijdslog
 Script,Script
 Script Report,Script Report
 Script Type,Script Type
@@ -867,15 +867,15 @@ Select All,Alles selecteren
 Select Attachments,Selecteer Bijlagen
 Select Document Type,Selecteer de documenttypen die
 Select Document Type or Role to start.,Selecteer Soort document of rol om te beginnen.
-Select Print Format,Selecteer Print Format
+Select Print Format,Selecteer Afdruk Formaat
 Select Report Name,Selecteer Rapportnaam
 Select Role,Selecteer Rol
-Select To Download:,Selecteer Naar Download:
+Select To Download:,Selecteer om te downloaden:
 Select Type,Selecteer Type
 Select User or DocType to start.,Selecteer Gebruiker of DocType te beginnen.
 Select a Banner Image first.,Kies eerst een banner afbeelding.
 Select an image of approx width 150px with a transparent background for best results.,Selecteer een afbeelding van ca. breedte 150px met een transparante achtergrond voor het beste resultaat.
-Select dates to create a new ,
+Select dates to create a new , kies data om een nieuwe te maken
 "Select modules to be shown (based on permission). If hidden, they will be hidden for all users.","Selecteer modules te worden vermeld ( gebaseerd op toestemming) . Als verborgen , zullen ze worden verborgen voor alle gebruikers ."
 Select or drag across time slots to create a new event.,Selecteer of sleep over tijdsloten om een ​​nieuwe gebeurtenis te maken.
 "Select target = ""_blank"" to open in a new page.","Selecteer target = "" _blank "" te openen in een nieuwe pagina ."
@@ -884,9 +884,9 @@ Send,Sturen
 Send As Email,Verstuur als e-mail
 Send Me A Copy,Stuur mij een kopie
 Send Password,Stuur wachtwoord
-Send Print in Body and Attachment,Doorsturen Afdrukken in Lichaam en bijlage
-Send an email reminder in the morning,Stuur dan een e-mail reminder in de ochtend
-Send download link of a recent backup to System Managers,Stuur download link van een recente back-up te System Managers
+Send Print in Body and Attachment,Doorsturen Afdrukken in body en bijlage
+Send an email reminder in the morning,Stuur dan een e-mail herinnering in de ochtend
+Send download link of a recent backup to System Managers,Stuur download link van een recente back-up naar System Managers
 Send enquiries to this email address,Stuur uw vragen naar dit e-mailadres
 Sender,Afzender
 Sent,verzonden
@@ -901,36 +901,36 @@ Session Expired. Logging you out,Sessie verlopen. U wordt afgemeld
 Session Expiry,Sessie Vervaldatum
 Session Expiry in Hours e.g. 06:00,"Sessie Vervaldatum in uren, bijvoorbeeld 06:00"
 Session Expiry must be in format {0},Sessie Vervaldatum moeten in formaat {0}
-Set Banner from Image,Stel Banner uit Afbeelding
-Set Link,Stel Link
+Set Banner from Image,Stel Banner in uit Afbeelding
+Set Link,Stel Link in
 Set Login and Password if authentication is required.,Aanmelding en wachtwoorden instellen als verificatie vereist is.
-Set Only Once,Stel slechts eenmaal
+Set Only Once,Stel slechts eenmaal in
 Set Password,Wachtwoord instellen
 Set Permissions on Document Types and Roles,Machtigingen op Document Types en rollen
 Set Permissions per User,Machtigingen instellen per gebruiker
 Set User Permissions,Set User Permissions
-Set Value,Set Value
-Set numbering series for transactions.,Stel nummering serie voor transacties.
+Set Value,stel waarde in
+Set numbering series for transactions.,Stel nummering in voor transacties.
 Set outgoing mail server.,Stel uitgaande mailserver .
 Settings,Instellingen
 Settings for About Us Page.,Instellingen voor Over Ons pagina.
 Settings for Contact Us Page.,Instellingen voor Contact Pagina.
 Setup,Setup
-Setup > User,Instellingen> Gebruiker
+Setup > User,Instellingen > Gebruiker
 Setup > User Permissions Manager,Setup > Gebruikersmachtigingen Manager
 Setup of fonts and background.,Instellen van lettertypen en de achtergrond.
-"Setup of top navigation bar, footer and logo.",Instellen van bovenste navigatiebalk voettekst en logo.
+"Setup of top navigation bar, footer and logo.",Instellen van bovenste navigatiebalk, voettekst en logo.
 Short Bio,Korte Bio
 Short Name,Korte Naam
 Shortcut,Kortere weg
 Show / Hide Modules,Weergeven / verbergen Modules
-Show Details,Show Details
-Show Print First,Eerste Show Print
+Show Details,Toon Details
+Show Print First,Toon Print eerst
 Show Tags,Toon Tags
-Show or hide modules globally.,Toon of modules wereldwijd verbergen.
+Show or hide modules globally.,Toon of verberg modules algemeen.
 Show rows with zero values,Toon rijen met nulwaarden
 Show this field as title,Toon dit gebied als titel
-Showing only for (if not empty),Slechts het tonen van (indien niet leeg )
+Showing only for (if not empty),Toon alleen voor (indien niet leeg )
 Sidebar,sidebar
 Sidebar Items,sidebar items
 Sidebar Links for Home Page only,Sidebar Links voor homepage alleen
@@ -939,18 +939,18 @@ Sign in,Aanmelden
 Sign up,Registreren
 Single Post (article).,Los bericht (artikel).
 Single Types have only one record no tables associated. Values are stored in tabSingles,Enkele soorten hebben slechts een record geen tafels verbonden . Waarden worden opgeslagen in tabSingles
-Sitemap Browser,Sitemap Browser
+Sitemap Browser,Sitemap verkenner
 Slideshow,Diashow
-Slideshow Items,Diashow Items
+Slideshow Items,Diashow onderdelen
 Slideshow Name,Diashow Naam
 Small Text,Kleine tekst
 Social Login Keys,Social Login Keys
 Solid background color (default light gray),Effen achtergrondkleur (standaard lichtgrijs)
 Sorry we were unable to find what you were looking for.,Sorry we waren niet in staat om te vinden wat u zocht.
-Sorry you are not permitted to view this page.,Sorry dat je niet toegestaan ​​om deze pagina te bekijken.
+Sorry you are not permitted to view this page.,Sorry dat je niet toegestaan bent​om deze pagina te bekijken.
 Sort By,Sorteer op
-Sort Field,Sorteren Field
-Sort Order,Sort Order
+Sort Field,Sorteerveld
+Sort Order,Sorteervolgorde
 Standard,Standaard
 Standard Print Format cannot be updated,Standard Print Format kan niet worden bijgewerkt
 Standard Reports,standaard rapporten
@@ -958,19 +958,19 @@ Start Report For,Start Rapport Voor
 Starts on,Begint op
 State,Staat
 States,Staten
-"States for workflow (e.g. Draft, Approved, Cancelled).","Staten voor workflow ( bijv. Draft , Goedgekeurd , Cancelled) ."
-Static File Timestamp,Statische File Tijdstempel
+"States for workflow (e.g. Draft, Approved, Cancelled).","Staten voor workflow ( bijv. Draft , Goedgekeurd , geannuleerd) ."
+Static File Timestamp,vaste Tijdstempel bestand
 Status,Staat
-Step 1: Set the name and save.,Stap 1 : Stel de naam en sla .
-Step 2: Set Letterhead content.,Stap 2 : Stel Briefhoofd inhoud .
+Step 1: Set the name and save.,Stap 1 : Stel de naam en bewaar .
+Step 2: Set Letterhead content.,Stap 2 : Stel Briefhoofd inhoud in .
 Style,Stijl
 Style Settings,Stijlinstellingen
 "Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","Stijl staat voor de kleur van de knoppen: Succes - Groen, Gevaar - Rood, Inverse - Zwart, Lager - Dark Blue, Info - Light Blue, Waarschuwing - Oranje"
 Sub-domain provided by erpnext.com,Subdomein door erpnext.com
 Subdomain,Subdomein
 Subject,Onderwerp
-Submit,Voorleggen
-Submit an Issue,Submit Een probleem
+Submit,inzenden
+Submit an Issue,meld Een probleem
 Submitted,Ingezonden
 Submitted Document cannot be converted back to draft. Transition row {0},Ingezonden Document kan niet worden geconverteerd terug op te stellen .
 Submitted Record cannot be deleted,Ingezonden Record kan niet worden verwijderd
@@ -984,16 +984,16 @@ System Settings,Systeeminstellingen
 System User,Systeem
 System and Website Users,Systeem en gebruikers van de website
 System generated mails will be sent from this email id.,Systeem gegenereerde mails worden verstuurd vanaf deze e-id.
-Table,Tafel
-Table {0} cannot be empty,Table {0} mag niet leeg zijn
+Table,Tabel
+Table {0} cannot be empty,Tabel {0} mag niet leeg zijn
 Tag,Label
 Tag Name,Tag Naam
 Tags,Tags
 Tahoma,Tahoma
 Target,Doel
-Tasks,taken
+Tasks,Taken
 Team Members,Teamleden
-Team Members Heading,Teamleden rubriek
+Team Members Heading,Teamleden Hoofding
 Template Pages cannot be moved,Sjabloon Pagina's kunnen niet worden verplaatst
 Template Path,template Path
 Test,Test
@@ -1015,27 +1015,27 @@ myfield
 eval:doc.myfield=='My Value'<br>
 eval:doc.age>18",Dit veld verschijnt alleen als de veldnaam hier gedefinieerd heeft waarde of de regels waar zijn ( voorbeelden) : <br> \ nmyfield \ Neval : doc.myfield == ' Mijn Value' Heb \ Neval : doc.age > 18
 This goes above the slideshow.,Dit gaat boven de diavoorstelling.
-This is PERMANENT action and you cannot undo. Continue?,Dit is PERMANENTE actie en u ongedaan kunt maken niet. Doorgaan?
-This is permanent action and you cannot undo. Continue?,Dit is een permanente actie en u ongedaan kunt maken niet. Doorgaan?
+This is PERMANENT action and you cannot undo. Continue?,Dit is PERMANENTE actie en u niet ongedaan maken. Doorgaan?
+This is permanent action and you cannot undo. Continue?,Dit is PERMANENTE actie en u niet ongedaan maken. Doorgaan?
 This must be checked if Style Settings are applicable,Dit moet worden gecontroleerd of Style -instellingen zijn van toepassing
 This role update User Permissions for a user,Deze rol -update Gebruikers Permissies voor een gebruiker
 Thursday,Donderdag
 Time,Tijd
-Time Zone,Time Zone
+Time Zone,Tijdszone
 Title,Titel
 Title / headline of your page,Titel / kop van uw pagina
-Title Case,Titel Case
-Title Field,Titel Field
-Title Prefix,Titel Prefix
+Title Case,Titel naam
+Title Field,Titel veld
+Title Prefix,Titel Voorvoegsel
 Title field must be a valid fieldname,Titel veld moet een geldige veldnaam zijn
 Title is required,Titel nodig
 To,Naar
-To Do,te doen
-"To format columns, give column labels in the query.","Om kolommen opmaken, geef kolom labels in de query."
+To Do,Te doen
+"To format columns, give column labels in the query.","Om kolommen op te maken, geef kolom labels in de query."
 "To give acess to a role for only specific records, check the 'Apply User Permissions'. User Permissions are used to limit users with such role to specific records.","Om acess geven aan een rol voor alleen specifieke records , controleer dan de 'Apply Gebruikersmachtigingen ' ."
 "To run a test add the module name in the route after '{0}'. For example, {1}","Om een test voeg de module naam in de route na ' {0} ' . Bijvoorbeeld , {1}"
 ToDo,ToDo
-Too many writes in one request. Please send smaller requests,Te veel schrijft in een verzoek. Stuur kleinere aanvragen
+Too many writes in one request. Please send smaller requests,Te veel taken in een verzoek. Stuur kleinere aanvragen
 Top Bar,Top Bar
 Top Bar Background,Top Bar Achtergrond
 Top Bar Item,Top Bar Item
@@ -1049,13 +1049,13 @@ Tweet will be shared via your user account (if specified),Tweet zal worden gedee
 Twitter Share,Twitter Share
 Twitter Share via,Twitter Deel via
 Type,Type
-Unable to find attachment {0},Niet vinden gehechtheid {0}
-Unable to load: {0},Niet in staat om belasting: {0}
-Unable to open attached file. Please try again.,Kan bijgevoegde bestand te openen . Probeer het opnieuw .
+Unable to find attachment {0},Bijlage {0} niet gevonden
+Unable to load: {0},Niet in staat om : {0} te laden
+Unable to open attached file. Please try again.,Kan bijgevoegd bestand niet openen . Probeer het opnieuw .
 Unable to send emails at this time,Niet in staat om e-mails op dit moment sturen
 Unknown Column: {0},Onbekend Column : {0}
 Unknown Print Format: {0},Onbekend Print Formaat : {0}
-"Unknown file encoding. Tried utf-8, windows-1250, windows-1252.","Onbekend bestand codering . Probeerde UTF-8 , windows- 1250 , windows- 1252 ."
+"Unknown file encoding. Tried utf-8, windows-1250, windows-1252.","Onbekend bestand indeling . Probeerde UTF-8 , windows- 1250 , windows- 1252 ."
 Unread Messages,Ongelezen berichten
 Unsubscribe,Uitschrijven
 Unsubscribed,Uitgeschreven
@@ -1064,10 +1064,10 @@ Upcoming Events for Today,Evenementen voor vandaag
 Update,Bijwerken
 Update Field,Veld bijwerken
 Update Parent,Parent update
-Update Value,Werk Value
+Update Value,Bijwerken waarde
 Updated,Bijgewerkt
 Upload,uploaden
-Upload Attachment,Upload Attachment
+Upload Attachment,Uploaden Bijlage
 Upload a file,Een bestand uploaden
 Upload and Import,Upload en importeren
 Uploading...,Uploaden ...
@@ -1103,13 +1103,13 @@ Value missing for,Waarde vermist
 Verdana,Verdana
 Version,versie
 Version restored,versie hersteld
-View or manage Website Route tree.,Bekijken of beheren Website Route boom.
+View or manage Website Route tree.,Bekijken of beheren Website structuur.
 Visit,Bezoeken
 Warning,Waarschuwing
 Web Page,Webpagina
 Web Site Forum Page.,Website Forum pagina .
 Website,Website
-Website Group,website Group
+Website Group,website Groep
 Website Route,website Sitemap
 Website Route Permission,Website Route Toestemming
 Website Script,Website Script
@@ -1119,7 +1119,7 @@ Website Slideshow Item,Website Diashow Item
 Website Template,Website Template
 Website User,Website Gebruiker
 Wednesday,Woensdag
-Welcome email sent,Welkom verzonden e-mail
+Welcome email sent,Welkom e-mail verzonden
 "When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number.","Wanneer u een document na Annuleren en sla het wijzigen , zal het een nieuw nummer dat is een versie van het oude nummer te krijgen ."
 Width,Breedte
 Will be used in url (usually first name).,Wordt gebruikt url (meestal voornaam).
@@ -1159,22 +1159,22 @@ You need write permission to rename,Je hebt toestemming nodig om te hernoemen sc
 [Label]:[Field Type]/[Options]:[Width],[Label]: [Veld Type] / [Opties]: [Breedte]
 add your own CSS (careful!),voeg uw eigen CSS (careful!)
 adjust,aanpassen
-align-center,lijn-centrum
-align-justify,uitlijning te rechtvaardigen
+align-center,centreer
+align-justify,uitlijning justifieren
 align-left,uitlijning links
-align-right,lijn-recht
+align-right,uilijning-rechts
 and,en
-arrow-down,arrow-down
+arrow-down,pijl-beneden
 arrow-left,pijl-links
 arrow-right,pijl-rechts
-arrow-up,pijl-up
+arrow-up,pijl-boven
 asterisk,sterretje
 backward,achterwaarts
 ban-circle,ban-cirkel
 barcode,barcode
 beginning with,beginnend met
 bell,bel
-bold,gedurfd
+bold,vet
 book,boek
 bookmark,bladwijzer
 briefcase,koffertje
@@ -1198,7 +1198,7 @@ dd-mm-yyyy,dd-mm-jjjj
 dd/mm/yyyy,dd / mm / yyyy
 download,downloaden
 download-alt,download-alt
-edit,redigeren
+edit,bijwerken
 eject,uitwerpen
 envelope,envelop
 exclamation-sign,uitroepteken-teken
@@ -1212,27 +1212,27 @@ film,film
 filter,filter
 fire,brand
 flag,vlag
-folder-close,map-close
-folder-open,map te openen
-font,doopvont
+folder-close,map-sluiten
+folder-open,map openen
+font,lettertype
 forward,vooruit
 found,gevonden
 fullscreen,volledig scherm
 gift,gift
 glass,glas
 globe,wereldbol
-hand-down,de hand-down
+hand-down,hand-beneden
 hand-left,hand-links
 hand-right,hand-rechts
-hand-up,hand-up
+hand-up,hand-op
 hdd,hdd
 headphones,hoofdtelefoon
 heart,hart
 home,thuis
-icon,icon
+icon,icoon
 inbox,inbox
-indent-left,streepje links
-indent-right,streepje-rechts
+indent-left,insprong links
+indent-right,insprong-rechts
 info-sign,info-teken
 is not allowed.,is niet toegestaan.
 italic,cursief
@@ -1272,12 +1272,12 @@ question-sign,vraag-teken
 random,toeval
 refresh,verversen
 remove,verwijderen
-remove-circle,remove-cirkel
-remove-sign,remove-teken
+remove-circle,wis-cirkel
+remove-sign,wis-teken
 repeat,herhalen
-resize-full,resize-full
-resize-horizontal,resize-horizontale
-resize-small,resize-small
+resize-full,pas aan-volledig
+resize-horizontal,pas aan-horizontaal
+resize-small,pas aan-small
 resize-vertical,resize-verticale
 retweet,retweet
 rgt,RGT
@@ -1290,22 +1290,22 @@ shopping-cart,shopping-cart
 signal,signaal
 star,ster
 star-empty,star-leeg
-step-backward,step-achteruit
+step-backward,stap-achteruit
 step-forward,stap vooruit
 stop,stoppen
 tag,label
 tags,-tags
 "target = ""_blank""",target = &quot;_blank&quot;
 tasks,taken
-text-height,text-height
-text-width,text breedte
+text-height,tekst-hoogteks
+text-width,tekst breedte
 th,e
 th-large,th-large
 th-list,th-lijst
 thumbs-down,duim omlaag
 thumbs-up,duim omhoog
 time,tijd
-tint,tint
+tint,kleur
 to,naar
 trash,prullenbak
 upload,uploaden
@@ -1313,7 +1313,7 @@ user,gebruiker
 user_image_show,user_image_show
 values and dates,waarden en data
 volume-down,volume-omlaag
-volume-off,volume-off
+volume-off,volume-uit
 volume-up,volume-up
 warning-sign,waarschuwing-teken
 wrench,moersleutel
@@ -1329,18 +1329,18 @@ zoom-out,zoom-out
 {0} is saved,{0} wordt opgeslagen
 {0} must be one of {1},{0} moet een van {1} zijn
 {0} not a valid State,{0} geen geldig Staat
-{0} not allowed in fieldname {1},{0} niet toegestaan ​​in veldnaam {1}
-{0} not allowed in name,{0} niet toegestaan ​​in naam
+{0} not allowed in fieldname {1},{0} niet toegestaan​in veldnaam {1}
+{0} not allowed in name,{0} niet toegestaan in naam
 {0} not allowed to be renamed,{0} mag niet worden hernoemd
 {0} updated,{0} bijgewerkt
 {0} {1} already exists,{0} {1} bestaat al
 {0} {1} cannot be a leaf node as it has children,{0} {1} kan een leaf node niet omdat het kinderen
 "{0} {1} does not exist, select a new target to merge","{0} {1} bestaat niet , kies een nieuw doel om te fuseren"
-{0}: Cannot set Amend without Cancel,{0} : Kan geen wijzigen zonder Annuleren
+{0}: Cannot set Amend without Cancel,{0} : Kan niet wijzigen zonder Annuleren
 {0}: Cannot set Assign Amend if not Submittable,{0} : Kan geen toewijzen wijzigen indien niet Submittable
 {0}: Cannot set Assign Submit if not Submittable,{0} : Kan geen toewijzen indienen indien niet Submittable
-{0}: Cannot set Cancel without Submit,{0} : Kan geen Annuleren zonder Indienen
-{0}: Cannot set Import without Create,{0} : Kan niet importeren ingesteld zonder Create
+{0}: Cannot set Cancel without Submit,{0} : Kan niet Annuleren zonder Indienen
+{0}: Cannot set Import without Create,{0} : Kan niet importeren zonder Create
 "{0}: Cannot set Submit, Cancel, Amend without Write","{0} : Kan geen Indienen , Annuleren , wijzigen zonder Write"
 {0}: Cannot set import as {1} is not importable,{0} : Kan geen import als {1} is niet importeerbare
 "{0}: Create, Submit, Cancel and Amend only valid at level 0","{0} : Create , Submit , annuleren en wijzigen alleen geldig op niveau 0"
